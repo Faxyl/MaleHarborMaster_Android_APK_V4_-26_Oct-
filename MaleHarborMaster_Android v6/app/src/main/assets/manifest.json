@@ -1,0 +1,11 @@
+{
+  "name": "Malé Harbor Master",
+  "short_name": "Malé Harbor",
+  "description": "2D Maldives Port & Seaplane Control Game created by Ahmed Fazeel",
+  "author": "Ahmed Fazeel",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#042f4b",
+  "theme_color": "#042f4b"
+}
